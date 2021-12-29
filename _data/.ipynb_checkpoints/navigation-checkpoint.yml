@@ -1,0 +1,29 @@
+# main links links
+main:
+  - title: "People"
+    url: /people/
+    
+  - title: "Lab Publications"
+    url: /publications/
+
+  - title: "Communications"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+ # - title: "Portfolio"
+ #   url: /portfolio/
+        
+  - title: "News"
+    url: /year-archive/
+    
+ # - title: "CV"
+ #   url: /cv/
+    
+  - title: "Join Us"
+    url: /joinus/
+ 
+  - title: "Photos"
+    url: /photos/
+ 
