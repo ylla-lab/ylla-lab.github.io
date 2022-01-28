@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/2016-01-01-The-microRNA-toolkit-of-insects
 date: 2016-01-01
 venue: 'Scientific Reports'
-citation: ' Guillem Ylla,  Bastian Fromm,  Maria Piulachs,  Xavier Belles, &quot;The microRNA toolkit of insects.&quot; Scientific Reports, 2016.'
+citation: ' <b>Guillem Ylla</b>,  Bastian Fromm,  Maria Piulachs,  Xavier Belles, &quot;The microRNA toolkit of insects.&quot; Scientific Reports, 2016.'
 ---
