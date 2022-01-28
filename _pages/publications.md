@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Publications with participation of the Lab members (lab members highlighted in bold).
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
