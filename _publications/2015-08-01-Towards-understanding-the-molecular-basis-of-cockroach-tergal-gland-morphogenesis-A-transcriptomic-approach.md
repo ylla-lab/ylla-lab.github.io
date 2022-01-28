@@ -5,6 +5,6 @@ permalink: /publication/2015-08-01-Towards-understanding-the-molecular-basis-of-
 date: 2015-08-01
 venue: 'Insect Biochemistry and Molecular Biology'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S0965174815300114'
-citation: ' Xavier Belles,  Guillem Ylla, &quot;Towards understanding the molecular basis of cockroach tergal gland morphogenesis. A transcriptomic approach.&quot; Insect Biochemistry and Molecular Biology, 2015.'
+citation: ' Xavier Belles,  <b>Guillem Ylla</b>, &quot;Towards understanding the molecular basis of cockroach tergal gland morphogenesis. A transcriptomic approach.&quot; Insect Biochemistry and Molecular Biology, 2015.'
 ---
 [Link to paper](http://www.sciencedirect.com/science/article/pii/S0965174815300114){:target="_blank"}
