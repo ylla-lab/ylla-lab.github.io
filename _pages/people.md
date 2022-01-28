@@ -7,7 +7,6 @@ redirect_from:
   - /People.html
 ---
 
-## Current Lab members
 
 ## P.I.
 
