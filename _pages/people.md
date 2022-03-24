@@ -11,7 +11,7 @@ redirect_from:
 ## P.I.
 
 
-<img src="../images/Ylla_Harvard1.jpg" alt="Ylla" width="200"/>
+<img src="../images/Ylla_Harvard1.jpg" alt="Ylla" width="200" height="200"/>
 
 - Guillem Ylla, Ph.D.
 
@@ -29,7 +29,7 @@ redirect_from:
 
 ### Master Students
 
-<img src="../images/Rafal_M.png" alt="Sara" width="200"/>
+<img src="../images/Rafal_M.png" alt="Sara" width="200" height="200"/>
 
 - Rafał Miłodrowski, Master Student in Bioinformatics
 
@@ -47,6 +47,6 @@ redirect_from:
 ## Former Lab Members
 
 
-<img src="../images/sara.jpg" alt="Sara" width="200"/>
+<img src="../images/sara.jpg" alt="Sara" width="200" height="200"/>
 
 - Sara Herrera, Vising Ph.D. student
