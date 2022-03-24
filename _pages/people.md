@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## P.I.
+## Group Leader
 
 
 <img src="../images/Ylla_Harvard1.jpg" alt="Ylla" width="200" height="200"/>
