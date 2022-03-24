@@ -42,9 +42,7 @@ redirect_from:
 - Szymon Szrajer, Bachelor Student in Bioinformatics
 
 
-
-
-===
+---
 
 ## Former Lab Members
 
