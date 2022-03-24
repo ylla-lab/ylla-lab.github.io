@@ -29,19 +29,31 @@ redirect_from:
 
 ### Master Students
 
+<img src="../images/Rafal_M.png" alt="Sara" width="200"/>
+
 - Rafał Miłodrowski, Master Student in Bioinformatics
+
+- Majka Karczmarek, Master Student in Bioinformatics
+
+- Alexandra Lazar, Master Student in Bioinformatics
+
+### Undergraduate Students
+
+- Szymon Szrajer, Bachelor Student in Bioinformatics
 
 ---
 
-### Visitors
 
-
-<img src="../images/sara.jpg" alt="Sara" width="200"/>
-
-- Sara Herrera, Vising Ph.D. student
 
 ---
 
 ===
 
-## Lab Alumni
+## Former Lab Members
+
+
+
+
+<img src="../images/sara.jpg" alt="Sara" width="200"/>
+
+- Sara Herrera, Vising Ph.D. student
