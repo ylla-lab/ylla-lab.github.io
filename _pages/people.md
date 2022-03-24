@@ -41,17 +41,12 @@ redirect_from:
 
 - Szymon Szrajer, Bachelor Student in Bioinformatics
 
----
 
 
-
----
 
 ===
 
 ## Former Lab Members
-
-
 
 
 <img src="../images/sara.jpg" alt="Sara" width="200"/>
