@@ -37,10 +37,12 @@ redirect_from:
 
 - Alexandra Lazar, Master Student in Bioinformatics
 
+- Dominik Robak, Master Student in Bioinformatics
+
+
 ### Undergraduate Students
 
 - Szymon Szrajer, Bachelor Student in Bioinformatics
-
 
 ---
 
