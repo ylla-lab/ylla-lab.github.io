@@ -10,4 +10,6 @@ location: "Jagiellonian University, Krakow, Poland"
 
 [More information here](https://winterschool.wbbib.uj.edu.pl/en_GB/)
 
-Guillem Ylla gave a talk in the workshop titled “Omics research – from methodology to application” about the role of small RNAs controlling the expression of mRNAs.[Slide](WBBiB_Winter_School_2022_slide2.jpg)
+Guillem Ylla gave a talk in the workshop titled “Omics research – from methodology to application” about the role of small RNAs controlling the expression of mRNAs.
+
+[!](WBBiB_Winter_School_2022_slide2.jpg)
