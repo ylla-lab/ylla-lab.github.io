@@ -32,4 +32,4 @@ The laboratory is composed of a wet-lab area for performing perform molecular bi
 The Team
 ======
 
-The research group is formed by a talented group of international scientists at different levels of their careers with a common interest on applying computational methods to understand biology. Know more about them on the [People's page](https://ylla-laboratory.github.io/people/).
+The research group is formed by a talented group of international scientists at different levels of their careers with a common interest on applying computational methods to understand biology. Know more about them on the [People's page](https://ylla-lab.github.io/people/).
