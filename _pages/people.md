@@ -39,12 +39,18 @@ redirect_from:
 
 - Dominik Robak, Master Student in Bioinformatics
 
+- Szymon Szrajer, Master Student in Bioinformatics
 
 ### Undergraduate Students
 
-- Szymon Szrajer, Bachelor Student in Bioinformatics
+- Paulina Prygiel, Bachelor Student in Bioinformatics
+
+### Visiting scientists
+
+- Evgenii Baiakhmetov
 
 ---
+
 
 ## Former Lab Members
 
