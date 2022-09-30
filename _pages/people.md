@@ -21,17 +21,22 @@ redirect_from:
 
 ---
 
-### Postdocs
+## Postdocs
 
 - Gabriela Machaj, Ph.D.
 
 ---
 
-### Master Students
+## Ph.D. Students
 
 <img src="../images/Rafal_M_squared.png" alt="Rafal" width="200" height="200"/>
 
 - Rafał Miłodrowski, Master Student in Bioinformatics
+
+
+---
+
+## Master Students
 
 - Majka Karczmarek, Master Student in Bioinformatics
 
@@ -41,11 +46,11 @@ redirect_from:
 
 - Szymon Szrajer, Master Student in Bioinformatics
 
-### Undergraduate Students
+## Undergraduate Students
 
 - Paulina Prygiel, Bachelor Student in Bioinformatics
 
-### Visiting scientists
+## Visiting scientists
 
 - Evgenii Baiakhmetov
 

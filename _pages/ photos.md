@@ -10,7 +10,9 @@ redirect_from:
 
 ## Pictures from conferences
 
-![](../_talks/JW210926_360.jpg)
+
+
+![](../_talks/JW210926_360.jpg) | ![](../_talks/IMG_0161.jpg)
 
    
 :-------------------------:|:-------------------------:
