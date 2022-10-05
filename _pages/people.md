@@ -52,7 +52,9 @@ redirect_from:
 
 ## Visiting scientists
 
-- Evgenii Baiakhmetov
+* Evgenii Baiakhmetov
+** [Genome assembly tutorial ]( https://niwdoog.github.io/Genome_Assembly_Long_Reads_Hi-C/#[V]_Quality_assessment__visualisation)
+
 
 ---
 
