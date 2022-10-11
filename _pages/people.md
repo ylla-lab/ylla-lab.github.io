@@ -52,7 +52,8 @@ redirect_from:
 
 ## Visiting scientists
 
-* Evgenii Baiakhmetov, developed a comprehensive [Genome assembly tutorial ]( https://niwdoog.github.io/Genome_Assembly_Long_Reads_Hi-C/#[V]_Quality_assessment__visualisation)
+* Evgenii Baiakhmetov.
+ * While in the lab, Evgenii developed a comprehensive [Genome assembly tutorial ]( https://niwdoog.github.io/Genome_Assembly_Long_Reads_Hi-C/)
 
 
 ---
