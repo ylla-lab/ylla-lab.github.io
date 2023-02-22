@@ -58,7 +58,6 @@ redirect_from:
 ## Former Lab Members
 
 
-<img src="../images/sara_squared.jpg" alt="Sara" width="200" height="200"/>
 
 - Sara Herrera, Vising Ph.D. student.
 - Alexandra Lazar, Master Student in Bioinformatics.
