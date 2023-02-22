@@ -31,7 +31,7 @@ redirect_from:
 
 <img src="../images/Rafal_M_squared.png" alt="Rafal" width="200" height="200"/>
 
-- Rafał Miłodrowski, Master Student in Bioinformatics
+- Rafał Miłodrowski, Ph.D. Student in Bioinformatics
 
 
 ---
