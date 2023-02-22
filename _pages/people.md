@@ -38,13 +38,11 @@ redirect_from:
 
 ## Master Students
 
-- Majka Karczmarek, Master Student in Bioinformatics
-
-- Alexandra Lazar, Master Student in Bioinformatics
-
 - Dominik Robak, Master Student in Bioinformatics
 
 - Szymon Szrajer, Master Student in Bioinformatics
+
+- Majka Karczmarek, Master Student in Bioinformatics
 
 ## Undergraduate Students
 
@@ -52,8 +50,6 @@ redirect_from:
 
 ## Visiting scientists
 
-* Evgenii Baiakhmetov.
-  * While in the lab, Evgenii developed a comprehensive [Genome assembly tutorial ]( https://niwdoog.github.io/Genome_Assembly_Long_Reads_Hi-C/)
 
 
 ---
@@ -64,4 +60,8 @@ redirect_from:
 
 <img src="../images/sara_squared.jpg" alt="Sara" width="200" height="200"/>
 
-- Sara Herrera, Vising Ph.D. student
+- Sara Herrera, Vising Ph.D. student.
+- Alexandra Lazar, Master Student in Bioinformatics.
+- Evgenii Baiakhmetov,  Visiting scientist.
+  * While in the lab, Evgenii developed a comprehensive [Genome assembly tutorial ]( https://niwdoog.github.io/Genome_Assembly_Long_Reads_Hi-C/)
+
