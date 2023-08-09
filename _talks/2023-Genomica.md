@@ -9,5 +9,3 @@ location: "Jagiellonian University, Krakow, Poland"
 ---
 
 [More information here](http://www.genomica.pl/en/home-page/)
-
-[photoBGI](../images/Ylla_BGI2023.jpeg)
