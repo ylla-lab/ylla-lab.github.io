@@ -7,6 +7,14 @@ redirect_from:
   - /photos.html
 ---
 
+## Lab pictures
+
+### June 2023
+
+![](../images/Lab_party062023.jpg)  | ![](../images/Lab_party062023_2.jpg) 
+
+---
+
 
 ## Pictures from conferences
 
@@ -16,12 +24,13 @@ redirect_from:
 
    
 :-------------------------:|:-------------------------:
+
 ![](../_talks/JW210926_356.jpg)  | ![](../_talks/JW210926_363.jpg) 
 
+:-------------------------:|:-------------------------:
+
+![](../_talks/Ylla_BGI2023.jpg)  
+
 ---
 
-## The Lab
-
-
----
 
