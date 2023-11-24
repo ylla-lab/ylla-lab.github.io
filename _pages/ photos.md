@@ -9,6 +9,11 @@ redirect_from:
 
 ## Lab pictures
 
+### November 2023
+
+![](../images/Group_112023.jpg) 
+
+
 ### June 2023
 
 ![](../images/Lab_party062023_2.jpg) 
