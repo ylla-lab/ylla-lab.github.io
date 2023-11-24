@@ -58,7 +58,7 @@ redirect_from:
 
 ## Visiting scientists
 
-- Michał Zawisza, Ph.D. studnet from Barcelona University.
+- Michał Zawisza, visiting Ph.D. student from Barcelona University.
 
 
 ---
@@ -66,10 +66,7 @@ redirect_from:
 
 ## Former Lab Members
 
-
-
-- Sara Herrera, Vising Ph.D. student.
-- Alexandra Lazar, Master Student in Bioinformatics.
-- Evgenii Baiakhmetov,  Visiting scientist.
+- Sara Herrera, vising Ph.D. student (2021).
+- Evgenii Baiakhmetov,  Visiting scientist (2022).
   * While in the lab, Evgenii developed a comprehensive [Genome assembly tutorial ]( https://niwdoog.github.io/Genome_Assembly_Long_Reads_Hi-C/)
 
