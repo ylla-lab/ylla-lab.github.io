@@ -11,7 +11,7 @@ redirect_from:
 ## Group Leader
 
 
-<img src="../images/3W5A9340_smal.jpg" alt="Ylla" width="666" height="488"/>
+<img src="../images/3W5A9340_smal.jpg" alt="Ylla" width="400" height="292"/>
 
 - Guillem Ylla, Ph.D.
 
