@@ -23,8 +23,13 @@ redirect_from:
 
 ## Postdocs
 
+<img src="../images/Gabriela.jpg" alt="Ylla" width="333" height="98"/>
 - Gabriela Machaj, Ph.D.
+
+<img src="../images/Edossa.jpg" alt="Ylla" width="333" height="98"/>
 - Edossa Fikiru, Ph.D.
+
+<img src="../images/3W5A9852 small.jpg" alt="Ylla" width="333" height="98"/>
 - Takahisa Yamashita, Ph.D.
 
 
@@ -32,9 +37,11 @@ redirect_from:
 
 ## Ph.D. Students
 
-<img src="../images/Rafal_M_squared.png" alt="Rafal" width="200" height="200"/>
 
+<img src="../images/3W5A9729 small.jpg" alt="Ylla" width="333" height="98"/>
 - Rafał Miłodrowski, Ph.D. Student in Bioinformatics.
+
+<img src="../images/3W5A9661 small.jpg" alt="Ylla" width="333" height="98"/>
 - Krystian Komenda, Ph.D. Student in Bioinformatics.
 
 
