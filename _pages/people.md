@@ -24,6 +24,9 @@ redirect_from:
 ## Postdocs
 
 - Gabriela Machaj, Ph.D.
+- Edossa Fikiru, Ph.D.
+- Takahisa Yamashita, Ph.D.
+
 
 ---
 
@@ -31,25 +34,24 @@ redirect_from:
 
 <img src="../images/Rafal_M_squared.png" alt="Rafal" width="200" height="200"/>
 
-- Rafał Miłodrowski, Ph.D. Student in Bioinformatics
+- Rafał Miłodrowski, Ph.D. Student in Bioinformatics.
+- Krystian Komenda, Ph.D. Student in Bioinformatics.
 
 
 ---
 
 ## Master Students
 
-- Dominik Robak, Master Student in Bioinformatics
-
-- Szymon Szrajer, Master Student in Bioinformatics
-
-- Majka Karczmarek, Master Student in Bioinformatics
+- Dominik Robak, Master Student in Bioinformatics.
+- Szymon Szrajer, Master Student in Bioinformatics.
+- Paulina Prygiel, Master Student in Bioinformatics.
 
 ## Undergraduate Students
 
-- Paulina Prygiel, Bachelor Student in Bioinformatics
 
 ## Visiting scientists
 
+- Michał Zawisza, Ph.D. studnet from Barcelona University.
 
 
 ---
