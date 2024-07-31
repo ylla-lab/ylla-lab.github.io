@@ -86,9 +86,9 @@ author:
   location         : "Jagiellonian University"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=B4f5UDgAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Guillem-Ylla"
   uri              :
   bitbucket        :
   codepen          :
