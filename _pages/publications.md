@@ -17,4 +17,4 @@ Publications with participation of the Lab members (*Lab members highlighted in 
 <hr style="height:2px;border:none;color:#333;background-color:#333;" />
 <h2>{{year}} </h2>
 <hr>
-{% capture written_year %}{{ year }}{% endcapture %} {% endif %} {% endfor %} 
+{% capture written_year %}{{ year }}{% endcapture %} {% endif %} {% include archive-single.html %} {% endfor %} 
