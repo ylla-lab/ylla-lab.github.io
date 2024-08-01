@@ -16,7 +16,7 @@ redirect_from:
 - Guillem Ylla, Ph.D.
 
 
-[![Linkedin](../linkedin.png) LinkedIn](https://www.linkedin.com/in/gylla)&nbsp;
+[![Linkedin](../images/linkedin.png) LinkedIn](https://www.linkedin.com/in/gylla)&nbsp;
 [![GitHub](../images/github.png) GitHub](https://github.com/guillemylla)
 
 ---
