@@ -16,8 +16,8 @@ redirect_from:
 - Guillem Ylla, Ph.D.
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gylla)&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/guillemylla)
+[![Linkedin](../linkedin.png) LinkedIn](https://www.linkedin.com/in/gylla)&nbsp;
+[![GitHub](../images/github.png) GitHub](https://github.com/guillemylla)
 
 ---
 
@@ -54,14 +54,7 @@ redirect_from:
 
 - Dominik Robak, Master Student in Bioinformatics.
 - Szymon Szrajer, Master Student in Bioinformatics.
-- Paulina Prygiel, Master Student in Bioinformatics.
 
-## Undergraduate Students
-
-
-## Visiting scientists
-
-- Michał Zawisza, visiting Ph.D. student from Barcelona University.
 
 
 ---
@@ -72,4 +65,6 @@ redirect_from:
 - Sara Herrera, vising Ph.D. student (2021).
 - Evgenii Baiakhmetov,  Visiting scientist (2022).
   * While in the lab, Evgenii developed a comprehensive [Genome assembly tutorial ]( https://niwdoog.github.io/Genome_Assembly_Long_Reads_Hi-C/)
+- Michał Zawisza, visiting Ph.D. student from Barcelona University.
+
 
