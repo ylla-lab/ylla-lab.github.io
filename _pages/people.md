@@ -52,8 +52,9 @@ redirect_from:
 
 ## Master Students
 
-- Szymon Szrajer, Master Student in Bioinformatics.
-- Dominik Robak, Master Student in Bioinformatics.
+- Piotr Michnal, Master Student in Bioinformatics.
+- Mikołaj Radosz, Master Student in Biotechnology.
+
 
 
 
@@ -68,5 +69,7 @@ redirect_from:
 - Michał Zawisza, visiting Ph.D. student from Barcelona University.
 - Gabriela Machaj, Ph.D. (2021-2024)
 - Edossa Fikiru, Ph.D. (2023-2025)
-- Szymon Szrajer,B.Sc.+M.Sc. (2022-2025
+- Szymon Szrajer, B.Sc.+M.Sc. (2022-2025)
+- Dominik Robak, M.Sc. (2022-2025)
+
 
