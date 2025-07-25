@@ -51,8 +51,8 @@ redirect_from:
 ---
 
 ## Master Students
-- Szymon Szrajer, Master Student in Bioinformatics.
 
+- Szymon Szrajer, Master Student in Bioinformatics.
 - Dominik Robak, Master Student in Bioinformatics.
 
 
