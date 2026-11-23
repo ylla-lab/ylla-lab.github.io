@@ -1,5 +1,5 @@
 ---
-title: "Probiotic textitLactobacillus rhamnosus mitigates PBC-like features in Mcpip1-deficient mice via modulation of gut-liver crosstalk"
+title: "Probiotic _Lactobacillus rhamnosus_ mitigates PBC-like features in Mcpip1-deficient mice via modulation of gut-liver crosstalk"
 collection: publications
 permalink: /publication/2026-06-01-Probiotic-textitLactobacillus-rhamnosus-mitigates-PBC-like-features-in-Mcpip1-deficient-mice-via-modulation-of-gut-liver-crosstalk
 date: 2026-06-01

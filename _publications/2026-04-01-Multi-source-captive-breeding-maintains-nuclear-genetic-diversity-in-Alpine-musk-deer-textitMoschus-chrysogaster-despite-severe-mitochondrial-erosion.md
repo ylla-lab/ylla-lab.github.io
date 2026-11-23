@@ -1,5 +1,5 @@
 ---
-title: "Multi-source captive breeding maintains nuclear genetic diversity in Alpine musk deer (textitMoschus chrysogaster) despite severe mitochondrial erosion"
+title: "Multi-source captive breeding maintains nuclear genetic diversity in Alpine musk deer (_Moschus chrysogaster_) despite severe mitochondrial erosion"
 collection: publications
 permalink: /publication/2026-04-01-Multi-source-captive-breeding-maintains-nuclear-genetic-diversity-in-Alpine-musk-deer-textitMoschus-chrysogaster-despite-severe-mitochondrial-erosion
 date: 2026-04-01
